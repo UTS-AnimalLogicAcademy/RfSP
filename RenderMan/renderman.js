@@ -107,7 +107,7 @@ function exportAssets(bxdf) {
         sep = "\\"
         pyBin += ".exe"
     }
-    var ext = ".png"
+    var ext = ".tif"
     var script = "rmanAssetsSubstancePainter.py"
     var exportPath = ""
     var jsonFilePath = ""
