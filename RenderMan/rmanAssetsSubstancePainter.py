@@ -371,11 +371,9 @@ def export():
         chans = mat['channels']
         DBUG('+ Exporting %s', label)
 
-        # assetPath = exportPath.join(label + '.rma')
         assetPath = exportPath
         DBUG('  + assetPath %s', assetPath)
-        # assetJsonPath = assetPath.join('asset.json')
-        assetJsonPath = assetPath.join('asset.rma')
+        assetJsonPath = assetPath.join('asset.json')
         DBUG('  + assetJsonPath %s', assetJsonPath)
 
         # create asset directory
