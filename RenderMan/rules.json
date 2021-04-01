@@ -31,42 +31,6 @@
             }
         },
         "settings": {
-            "basecolor": {
-                "linearize": {
-                    "type": "int",
-                    "value": 1
-                }
-            },
-            "specular": {
-                "linearize": {
-                    "type": "int",
-                    "value": 1
-                }
-            },
-            "roughness": {
-                "linearize": {
-                    "type": "int",
-                    "value": 0
-                }
-            },
-            "metallic": {
-                "linearize": {
-                    "type": "int",
-                    "value": 0
-                }
-            },
-            "opacity": {
-                "linearize": {
-                    "type": "int",
-                    "value": 0
-                }
-            },
-            "emissive": {
-                "linearize": {
-                    "type": "int",
-                    "value": 1
-                }
-            },
             "normal": {
                 "orientation": {
                     "type": "int",
@@ -296,42 +260,6 @@
         "settings": {
             "bxdf": {
                 "specularModelType": {
-                    "type": "int",
-                    "value": 1
-                }
-            },
-            "basecolor": {
-                "linearize": {
-                    "type": "int",
-                    "value": 1
-                }
-            },
-            "specular": {
-                "linearize": {
-                    "type": "int",
-                    "value": 1
-                }
-            },
-            "roughness": {
-                "linearize": {
-                    "type": "int",
-                    "value": 0
-                }
-            },
-            "metallic": {
-                "linearize": {
-                    "type": "int",
-                    "value": 0
-                }
-            },
-            "opacity": {
-                "linearize": {
-                    "type": "int",
-                    "value": 0
-                }
-            },
-            "emissive": {
-                "linearize": {
                     "type": "int",
                     "value": 1
                 }
